@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=x\ y\ map\ h\ monsterAmount
+comment1.target=java.lang.Object\ check(int,\ int,\ java.lang.Object[][],\ Hero,\ int)
+comment2.params=h\ m\ a
+comment2.target=int\ foundMon(Hero,\ Monster,\ Armor)
+comment3.params=h\ m\ a
+comment3.target=int\ action(Hero,\ Monster,\ Armor)
+comment4.params=h\ m\ a
+comment4.target=int\ attack(Hero,\ Monster,\ Armor)
+comment5.params=h\ m\ a
+comment5.target=int\ run(Hero,\ Monster,\ Armor)
+comment6.params=h\ p
+comment6.target=void\ addPotion(Hero,\ Potion)
+comment7.params=h\ f
+comment7.target=int\ foundFarmer(Hero,\ Farmer)
+comment8.params=monsterAmount\ findPotion1\ findPotion2\ findFarmer1\ findFarmer2
+comment8.target=boolean\ search(int,\ int,\ int,\ int,\ int)
+comment9.params=monsterAmount\ findPotion1\ findPotion2\ findFarmer1\ findFarmer2
+comment9.target=boolean\ checkEnd(int,\ int,\ int,\ int,\ int)
+numComments=10
